@@ -1,0 +1,190 @@
+zl2348@kathmandu:~/Downloads$ python project1.py w7Hv5UCrrHE3bZysRWRvuBCbibeduPuGJSfKqM1rc7Y 0.9 gates
+Result 1
+[
+Title:  Gates Corporation
+Url: http://www.gates.com/
+Description: Gates Corporation is Powering Progress in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 2
+[
+Title:  Amazon.com: gates
+Url: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+Description: Product Description... Easy Open Extra Wide Safety Gate boasts 100 percent steel ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 3
+[
+Title:  Gates Automotive Aftermarket Solutions | Gates Corporation
+Url: http://www.gates.com/industries/automotive
+Description: Gates offers a complete line of original equipment (OE) automotive aftermarket products and solutions, including automotive hose, belts, & accessories.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 4
+[
+Title:  Driveway Gates | Automatic Gates | Electric Gates
+Url: http://www.gatecrafters.com/design_your_gates.aspx
+Description: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 5
+[
+Title:  gates | Facebook
+Url: https://www.facebook.com/gatesnj
+Description: Kevin Dye from Gates performs an acoustic version of the very first song Gates wrote together. He also discusses how he started playing music, ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 6
+[
+Title:  Gates Bar B.Q.
+Url: http://www.gatesbbq.com/
+Description: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 7
+[
+Title:  NaviGates - Gates Corporation
+Url: http://navigates.gates.com/
+Description: Gates high quality belt & hose solutions support your energy, exploration, extraction, infrastructure, agriculture & transportation needs.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 8
+[
+Title:  Baby Gates - Babies"R"Us
+Url: http://www.toysrus.com/family/index.jsp?categoryId=2256222
+Description: Safe & durable baby gates will keep your baby safe. Choose from a large assortment of baby gates including extra wide gates to suit your needs. Shop today.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 9
+[
+Title:  Bill Gates - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Bill_Gates
+Description: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. Gates originally ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 10
+[
+Title:  The world's most trusted name in belts, hose and hydraulics
+Url: http://ww2.gates.com/europe/
+Description: Gates Career; Contact Us; Join/Login; Energy, Exploration & Extraction; Infrastructure & Agriculture; Transportation. Automotive. Process & Specialty; Products ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+FEEDBABK SUMMARY(1 Times Iteration)
+Query: ['gates']
+Current precision: 0.1
+New Query: ['gates', u'bill', u'iii']
+Result 1
+[
+Title:  Bill Gates - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Bill_Gates
+Description: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. Gates originally ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 2
+[
+Title:  Bill Gates - Biography - - Biography.com
+Url: http://www.biography.com/people/bill-gates-9307520
+Description: Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 3
+[
+Title:  William Henry Gates III: Executive Profile & Biography ...
+Url: http://www.bloomberg.com/research/stocks/people/person.asp?personId=181600&ticker=MSFT
+Description: Background* Mr. William Henry Gates, III, also known as Bill, co-founded Microsoft Corporation in 1975 and has been its Technology Advisor since February 4, 2014.
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 4
+[
+Title:  Gates, William H., III (Bill Gates) (Informational Paper)
+Url: http://www.learningtogive.org/papers/paper100.html
+Description: William Henry Gates III and his foundation's focus on global health and population control programs, increased library technology, minority scholarships, and ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 5
+[
+Title:  #2 William Gates III - Forbes.com
+Url: http://www.forbes.com/lists/2010/10/billionaires-2010_William-Gates-III_BH69.html
+Description: The World's Billionaires #2 William Gates III 03.10.10, 06:00 PM EST Software visionary is now the world's second-richest man.
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 6
+[
+Title:  William Henry Gates III Bio - WilliamHenryGatesIII.com
+Url: http://williamhenrygatesiii.com/bio.htm
+Description: Bill Gates was born William Henry Gates III October 28, 1955 to William Henry Gates, Jr. and Mary Gates at Seattle ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 7
+[
+Title:  Bill Gates Keynote: Microsoft TechEd 2008 ...
+Url: http://news.microsoft.com/speeches/bill-gates-keynote-microsoft-tech%e2%80%a2ed-2008-developers/
+Description: BILL GATES: Good morning and welcome to TechEd. This is the first year that we broke TechEd into two sections, the section this week, which is just ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 8
+[
+Title:  Bill Gates - Biography - IMDb
+Url: http://www.imdb.com/name/nm0309540/bio
+Description: Born William Henry III is an American entrepreneur, business mogul, investor, philanthropist, and widely known as one of the most richest and influential people in ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 9
+[
+Title:  Bill Gates | Celebrity Net Worth
+Url: http://www.celebritynetworth.com/view/en/bill_gates/
+Description: William Henry "Bill" Gates III is an American business magnate, investor, programmer, inventor and philanthropist. Gates is the former chief executive a...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 10
+[
+Title:  Bill Gates | LinkedIn
+Url: https://www.linkedin.com/in/williamhgates
+Description: View Bill Gates's professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Bill Gates discover inside ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+FEEDBABK SUMMARY(2 Times Iteration)
+Query: ['gates', u'bill', u'iii']
+Current precision: 1.0
+Desired Precision Reached, Done!
+

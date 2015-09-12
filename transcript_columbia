@@ -1,0 +1,190 @@
+zl2348@kathmandu:~/Downloads$ python project1.py w7Hv5UCrrHE3bZysRWRvuBCbibeduPuGJSfKqM1rc7Y 0.9 columbia
+Result 1
+[
+Title:  Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+Url: http://www.columbia.com/
+Description: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 2
+[
+Title:  Columbia University in the City of New York
+Url: http://www.columbia.edu/
+Description: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 3
+[
+Title:  Columbia - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Columbia
+Description: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 4
+[
+Title:  Colombia - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Colombia
+Description: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 5
+[
+Title:  City of Columbia, Missouri's Official Government Web Site
+Url: http://www.gocolumbiamo.com/
+Description: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 6
+[
+Title:  :: Welcome to the City of Columbia ::
+Url: http://columbiasc.net/
+Description: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 7
+[
+Title:  Columbia (name) - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Columbia_(name)
+Description: "Columbia" (k- LUM -bee-) is a historical and poetic name used for the United States of America and also as one of the names of its female personification. It has ...
+]
+Relevant ?(Y/N)n
+===========================================
+
+Result 8
+[
+Title:  Columbia College | Columbia College
+Url: http://www.college.columbia.edu/
+Description: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 9
+[
+Title:  GoColumbiaLions.comOfficial Web Site of Columbia ...
+Url: http://www.gocolumbialions.com/
+Description: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 10
+[
+Title:  Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+Url: http://www.columbia.com/mens/
+Description: Shop online through the official Columbia Sportswear website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+Relevant ?(Y/N)n
+===========================================
+
+FEEDBABK SUMMARY(1 Times Iteration)
+Query: ['columbia']
+Current precision: 0.3
+New Query: ['columbia', u'university', u'college']
+Result 1
+[
+Title:  Columbia College, Columbia University
+Url: http://www.college.columbia.edu/
+Description: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 2
+[
+Title:  Columbia University in the City of New York
+Url: http://www.columbia.edu/
+Description: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 3
+[
+Title:  Columbia College: On Campus & Online - Associate, Bachelor ...
+Url: http://www.ccis.edu/
+Description: Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country. Get an ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 4
+[
+Title:  Columbia University - Wikipedia, the free encyclopedia
+Url: http://en.wikipedia.org/wiki/Columbia_University
+Description: Columbia University in the City of New York, or simply Columbia University, is an American private Ivy League research university located in the ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 5
+[
+Title:  College Search - Columbia University - BigFuture - Get ...
+Url: https://bigfuture.collegeboard.org/college-university-search/columbia-university
+Description: Columbia University: Get trusted and up to date information about Columbia University financial aid, admission, SAT scores, college majors, deadlines, and more at ...
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 6
+[
+Title:  Admissions | Columbia University in the City of New York
+Url: http://www.columbia.edu/content/admissions.html
+Description: For information on admission to a Columbia school, select the appropriate school from the drop-down menu on the right.
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 7
+[
+Title:  Majors, Concentrations, and Programs of Study | Columbia ...
+Url: http://www.college.columbia.edu/academics/programs
+Description: Columbia University in the City of New York 208 Hamilton Hall, Mail Code 2805 1130 Amsterdam Avenue New York, NY 10027. ColumbiaCollege@columbia.edu
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 8
+[
+Title:  Columbia College Chicago
+Url: http://www.colum.edu/
+Description: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 9
+[
+Title:  Columbia College | Columbia Undergraduate Admissions
+Url: http://undergrad.admissions.columbia.edu/learn/academiclife/college
+Description: Office of Undergraduate Admissions 212 Hamilton Hall, Mail Code 2807 212-854-2522 ugrad-ask@columbia.edu Street Address & Contact Info
+]
+Relevant ?(Y/N)y
+===========================================
+
+Result 10
+[
+Title:  Columbia College Bulletin < Columbia College | Columbia ...
+Url: http://bulletin.columbia.edu/columbia-college/
+Description: 2014-2015 | Columbia College | Founded 1754. Columbia College at Columbia University in the City of New York. About the College. Our Mission; Meet Our Staff; Contact Us
+]
+Relevant ?(Y/N)y
+===========================================
+
+FEEDBABK SUMMARY(2 Times Iteration)
+Query: ['columbia', u'university', u'college']
+Current precision: 1.0
+Desired Precision Reached, Done!
+
